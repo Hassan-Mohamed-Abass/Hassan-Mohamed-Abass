@@ -41,13 +41,15 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 <br/>
+<hr>
+
 ## Connect with me ☕ :
 
 <br>
-(https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/hassan.mohammed.71653) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")]
-[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@01003824140")](tel:01003824140)
-[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
+(https://img.icons8.com/fluency/48/000000/facebook.png "@hassan.mohammed.71653")](https://www.facebook.com/hassan.mohammed.71653) [![@hassan.mohammed.71653]
+(https://img.icons8.com/fluency/48/000000/linkedin.png "@hassan.mohammed.71653")]
+[![@01003824140](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@01003824140")](tel:01003824140)
+[![@hma30188@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@hma30188@gmail.com")](hma30188@gmail.com)
 <br>
 ------
 Credit: [Hassan-Mohamed-Abass](https://github.com/Hassan-Mohamed-Abass/Hassan-Mohamed-Abass)
