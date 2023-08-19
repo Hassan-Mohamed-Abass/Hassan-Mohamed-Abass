@@ -43,14 +43,7 @@
 <br/>
 <hr>
 
-## Connect with me ☕ :
 
-<br>
-(https://img.icons8.com/fluency/48/000000/facebook.png "@hassan.mohammed.71653")](https://www.facebook.com/hassan.mohammed.71653) [![@hassan.mohammed.71653]
-(https://img.icons8.com/fluency/48/000000/linkedin.png "@hassan.mohammed.71653")]
-[![@01003824140](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@01003824140")](tel:01003824140)
-[![@hma30188@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@hma30188@gmail.com")](hma30188@gmail.com)
-<br>
 ------
 Credit: [Hassan-Mohamed-Abass](https://github.com/Hassan-Mohamed-Abass/Hassan-Mohamed-Abass)
 Last Edited on: 19/08/2023
